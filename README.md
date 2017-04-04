@@ -15,39 +15,35 @@ Identifiers for Variables, Trait, Methods and Scales are made up of the Ontology
 
 BRATO:XXXXXXX
 
-The first digit describes the type of Section the ID describes. For example:
+The **first digit** describes the type of **Section** the ID describes. For example:
 
-Variables:
-BRATO:1XXXXXX
-Traits:
-BRATO:2XXXXXX
-Methods:
-BRATO:3XXXXXX
-Scale:
-BRATO:4XXXXXX
+| Variables       | Traits      |Methods  |  Scale |
+| ------------  |:------------:| -----:|-----:|
+| BRATO:1XXXXXX   | BRATO:2XXXXXX |BRATO:3XXXXXX |BRATO:4XXXXXX|
 
-The second digit describes the Institution that submits the ID. For example:
 
-Variables from Inra:
-BRATO:10XXXXX
-Traits from Inra:
-BRATO:20XXXXX
-Methods from Earlham Institute:
-BRATO:31XXXXX
-Scale from Southern Cross University:
-BRATO:42XXXXX
 
-The individual Field contents are then numbered increasing right hand digits. For example:
+The **second digit** describes the **Institution** that submits the ID. For example:
 
-Variable_entry_1 from Inra:
+
+|---| Variables       | Traits      |Methods  |  Scale |
+|---| ------------  |:------------:| -----:|-----:|
+|**Inra**|BRATO:10XXXXX   | BRATO:20XXXXX |BRATO:30XXXXX |BRATO:40XXXXX|
+|**Earlham Institute**| BRATO:11XXXXX   | BRATO:21XXXXX |BRATO:31XXXXX |BRATO:41XXXXX|
+|**Southern Cross**|BRATO:12XXXXX   | BRATO:22XXXXX |BRATO:32XXXXX |BRATO:42XXXXX|
+
+
+The **individual entries** are then numbered **increasing right hand digits**. For example:
+
+* Variable_entry_1 from Inra:
 BRATO:10XXXX1
-Variable_entry_2 from Inra:
+* Variable_entry_2 from Inra:
 BRATO:10XXXX2
-Trait_entry_4 from Earlham Institute:
+* Trait_entry_4 from Earlham Institute:
 BRATO:11XXXX4
-Method_entry_60 from Southern Cross University:
+* Method_entry_60 from Southern Cross University:
 BRATO:32XXX60
-Scale_entry_6 from Southern Cross University:
+* Scale_entry_6 from Southern Cross University:
 BRATO:42XXXX6
 
-'X' was only used for explanatory purposes above. Please replace all 'X' with 0 when submitting your IDs of each section to the Trait Dictionary.
+*Note* 'X' was only used for explanatory purposes above. Please replace all 'X' with 0 when submitting your IDs of each section to the Trait Dictionary.
