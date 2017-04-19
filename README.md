@@ -58,3 +58,20 @@ If the scale already exists in the spreadsheet, but is derived from a different 
 
 #### Method already exists
 Whether a method is applied to multiple traits in your submission, make sure the ID is the same for all traits with that method.
+
+
+### Mini Commit Ontology
+
+For better navigation of the commit messages, we agreed to use a three-element-description in the commits related to the ontology document:
+
+1) `[institute name ] -> [Earlham Institute] [Inra] [Southern Cross]` 
+
+2) Followed by some small info on what is done suggested elements for that are `[add traits] [update]  [edit]` and whatever is reasonnable and reusable.
+
+3) followed by any free text description of what you did . 
+
+Here some example commits already existing:
+
+git commit -m "`[Earlham Institute] [add traits]` next batch of RIPR traits"
+git commit -m "`[Earlham Institute] [update]` method and Scale IDs"
+git commit -m "`[Inra] [edit Trait IDs]` corrected IDs based on 1st BRATO version and agreed naming convention"
