@@ -3,9 +3,10 @@ Brassica Trait Ontology (BRaTO) hosts trait information to describe brassica cro
 Terms are collected from various projects including OREGIN, RIPR (UK), Rapsodyn (France).
 BRATO development is conducted by Earlham Institute (UK), Southern Cross University (Australia) and INRA (France).
  
-This work was supported by UK Biotechnology and Biological Sciences Research Council as part of the BBSRC Renewable 
-Industrial Products from Rapeseed (RIPR) Programme (BB/L002124/1)
- 
+This work was supported by 
+* UK Biotechnology and Biological Sciences Research Council as part of the BBSRC Renewable Industrial Products from Rapeseed (RIPR) Programme (BB/L002124/1)
+* The RAPSODYN project (grant nb. ANR-11-BTBR-0004) is funded by the French program “Investments for the Future” (2012-2019). More information on http://www.rapsodyn.fr/rapsodyn_eng/.
+  
 
 BRATO is based on the Crop Ontology Trait Dictionary Version 5.
 
